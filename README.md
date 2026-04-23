@@ -2,11 +2,10 @@
 
 # 🔐 Cybersecurity Learning Journey
 
-Hi! I'm [Your Name], a cybersecurity enthusiast documenting 
-my learning journey.
+Hi! I'm Cybersage,Etc, a cybersecurity enthusiast documenting my learning journey.
 
 ## 📌 What You'll Find Here
-- CTF Write-ups (TryHackMe, HackTheBox)
+- CTF Write-ups (TryHackMe, HackTheBox,etc..)
 - Tool tutorials and notes
 - Security concepts explained simply
 - Practice lab setups
@@ -15,8 +14,8 @@ my learning journey.
 Nmap | Burp Suite | Metasploit | Wireshark | Linux
 
 ## 📫 Connect With Me
-- LinkedIn: your-link
-- Medium/Blog: your-link
+- LinkedIn: ...
+- Medium/Blog: ...
 
 ---
 ⭐ Star this repo if you find it helpful!
