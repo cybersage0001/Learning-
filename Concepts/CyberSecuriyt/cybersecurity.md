@@ -1,7 +1,6 @@
 ### Cyber Security (Basics)
 
 Cybersecurity means keeping computers, networks, and data safe from hackers and attacks.
-
 It helps protect important information, such as passwords, personal data, and files, from theft or damage.
 
 ## Basic Ideas
