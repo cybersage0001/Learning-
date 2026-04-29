@@ -1,4 +1,4 @@
-### Networking in Cybersecurity
+# Networking in Cybersecurity
 Networking in cybersecurity means how computers connect and communicate with each other securely. It focuses on protecting data while it is being transferred between systems.
 
 ## Why Networking is Important in Cybersecurity
