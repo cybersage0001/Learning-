@@ -1,34 +1,34 @@
 # 🌐 Networking Glossary (Short → Full Form)
 
-IP → Internet Protocol
-TCP → Transmission Control Protocol
-UDP → User Datagram Protocol
-HTTP → HyperText Transfer Protocol
-HTTPS → HyperText Transfer Protocol Secure
-FTP → File Transfer Protocol
-SFTP → Secure File Transfer Protocol
-SSH → Secure Shell
-DNS → Domain Name System
-DHCP → Dynamic Host Configuration Protocol
-MAC → Media Access Control
-LAN → Local Area Network
-WAN → Wide Area Network
-MAN → Metropolitan Area Network
-PAN → Personal Area Network
-VPN → Virtual Private Network
-NAT → Network Address Translation
-ISP → Internet Service Provider
-OSI → Open Systems Interconnection
-ARP → Address Resolution Protocol
-ICMP → Internet Control Message Protocol
-SMTP → Simple Mail Transfer Protocol
-POP3 → Post Office Protocol version 3
-IMAP → Internet Message Access Protocol
-SNMP → Simple Network Management Protocol
-ACL → Access Control List
-IDS → Intrusion Detection System
-IPS → Intrusion Prevention System
-QoS → Quality of Service
-BGP → Border Gateway Protocol
-RIP → Routing Information Protocol
-OSPF → Open Shortest Path First
+IP → Internet Protocol<br>
+TCP → Transmission Control Protocol<br>
+UDP → User Datagram Protocol<br>
+HTTP → HyperText Transfer Protocol<br>
+HTTPS → HyperText Transfer Protocol Secure<br>
+FTP → File Transfer Protocol<br>
+SFTP → Secure File Transfer Protocol<br>
+SSH → Secure Shell<br>
+DNS → Domain Name System<br>
+DHCP → Dynamic Host Configuration Protocol<br>
+MAC → Media Access Control<br>
+LAN → Local Area Network<br>
+WAN → Wide Area Network<br>
+MAN → Metropolitan Area Network<br>
+PAN → Personal Area Network<br>
+VPN → Virtual Private Network<br>
+NAT → Network Address Translation<br>
+ISP → Internet Service Provider<br>
+OSI → Open Systems Interconnection<br>
+ARP → Address Resolution Protocol<br>
+ICMP → Internet Control Message Protocol<br>
+SMTP → Simple Mail Transfer Protocol<br>
+POP3 → Post Office Protocol version 3<br>
+IMAP → Internet Message Access Protocol<br>
+SNMP → Simple Network Management Protocol<br>
+ACL → Access Control List<br>
+IDS → Intrusion Detection System<br>
+IPS → Intrusion Prevention System<br>
+QoS → Quality of Service<br>
+BGP → Border Gateway Protocol<br>
+RIP → Routing Information Protocol<br>
+OSPF → Open Shortest Path First<br>
