@@ -35,4 +35,4 @@ Each level introduces a new concept and requires practical problem-solving skill
 
 ## Disclaimer
 
-These writeups are created for educational purposes only to help understand cybersecurity and Linux concepts.
+These write-ups are created for educational purposes only to help understand cybersecurity and Linux concepts.
