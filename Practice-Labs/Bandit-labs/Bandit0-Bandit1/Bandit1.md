@@ -8,6 +8,7 @@ If you have a question about -p 2220, it means the SSH service is running on por
 -->Now the password for bandit0 is bandit0.</br>
 -->Then, you logged in to the machine.</br>
 --> After doing the ls command, it will show files whichevre is existed: ls</br>
+NOTE: If you do not know the basic commands for Kali, check the repo in the concepts folder; you will get basic information.
 -->ls shows the readme file where our password is saved for the next step.</br>
 -->then use the cat command to see the content of the readme file: cat readme</br> 
 -->In the last step, you got the password for bandit1.</br>
